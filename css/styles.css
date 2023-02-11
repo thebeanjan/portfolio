@@ -128,23 +128,30 @@ main > article > .article-title-section > h1 {
     margin: 8rem;
 }
 
+.article-image-section {
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    padding: 0rem;
+}
+
 li {
     width: 100%;
     height: auto;
     font-weight: 300;
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin: 1rem 7rem;
     justify-content: center;
-    padding: 3rem;
+    padding: 2.5rem;
 }
 
 .p_about {
     width: 100%;
-    font-weight: 100;
-    font-size: 2rem;
+    font-weight: 300;
+    font-size: 2.5rem;
     /* margin: 3rem 10rem; */
     justify-content: center;
-    padding: 5rem;
+    padding: 3rem;
 }
 
 .notice {
